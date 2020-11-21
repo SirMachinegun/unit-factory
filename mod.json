@@ -1,10 +1,10 @@
 {
 	"name": "unit-factory",
 	"author": "DeltaNedas",
-	"displayName": "[coral]Unit [gray]Factory",
-	"description": "Spawn any enemy in sandbox.\n[stat]Requires [#00aaff]DeltaNedas/ui-lib[].",
+	"displayName": "Unit Factory",
+	"description": "Summon any unit whenever you want.\nYou can also set the unit's team and amount.\nRequires DeltaNedas/ui-lib.\nDoesn't work on multiplayer if you aren't an admin.",
 	"dependencies": ["ui-lib"],
-	"version": "2.3.0",
+	"version": "1.0",
 	"hidden": true,
-	"minGameVersion": 105
+	"minGameVersion": 106
 }
